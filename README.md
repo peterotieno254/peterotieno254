@@ -1,24 +1,24 @@
-# Hi, I'm Peter Otieno 👋
+Otieno Peter 
 
 A Computer Science student passionate about software development, problem-solving, and building impactful digital solutions. I enjoy learning new technologies, solving real-world challenges, and turning ideas into working products.
 
-## About Me
+ About Me
 
-- 🎓 Computer Science student
-- 💻 Interested in software engineering, web development, AI, and data structures
-- 🌱 Currently learning and building projects in programming and software design
-- 🚀 Looking for opportunities to collaborate, learn, and contribute to meaningful projects
+- Computer Science student
+-  Interested in software engineering, web development, AI, and data structures
+-  Currently learning and building projects in programming and software design
+-  Looking for opportunities to collaborate, learn, and contribute to meaningful projects
 
-## Skills
+ Skills
 
-### Programming Languages
+ Programming Languages
 - Python
 - JavaScript
 - Java
 - C++
 - SQL
 
-### Web Development
+ Web Development
 - HTML
 - CSS
 - JavaScript
@@ -27,25 +27,23 @@ A Computer Science student passionate about software development, problem-solvin
 - Express
 - REST APIs
 
-### Tools & Platforms
+ Tools & Platforms
 - Git & GitHub
 - VS Code
-- Linux
-- Firebase
 - MySQL
 - PostgreSQL
 
-### Core Computer Science Topics
+ Core Computer Science Topics
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Database Design
 - Computer Networks
 - Operating Systems
-- Software Engineering
+- Artificial Intelligence
 
-## Featured Projects
+ Featured Projects
 
-### 1. [Project Name]
+ 1. [Project Name]
 A brief description of the project, the problem it solves, and the technologies used.
 
 - Technologies: Python, Flask, SQLite
@@ -53,7 +51,7 @@ A brief description of the project, the problem it solves, and the technologies 
 - Repository: [Link to repo]
 - Live Demo: [Link if available]
 
-### 2. [Project Name]
+ 2. [Project Name]
 Describe your second project here.
 
 - Technologies: React, Node.js, MongoDB
@@ -61,21 +59,19 @@ Describe your second project here.
 - Repository: [Link to repo]
 - Live Demo: [Link if available]
 
-### 3. [Project Name]
+ 3. [Project Name]
 Describe your third project here.
 
 - Technologies: Java, Spring Boot, MySQL
 - Features: ...
 - Repository: [Link to repo]
 - Live Demo: [Link if available]
-
-## GitHub Stats
+ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peterotieno254&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peterotieno254&layout=compact&theme=radical)
-
-## Current Focus
+ Current Focus
 
 - Strengthening my skills in software engineering and full-stack development
 - Building projects with practical applications
